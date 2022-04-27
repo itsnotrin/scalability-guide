@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Scalability Guide',
-  tagline: 'How to scale your app!',
+  tagline: 'How to scale your app or web server!',
   url: 'https://example.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

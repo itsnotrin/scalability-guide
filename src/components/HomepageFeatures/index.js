@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        This guide was designed with you in mind. We kept an open mind whilst making it for it to be as easy as possible for anyone to use!
+        This guide was designed with you in mind. We kept an open mind whilst making it for it to be as easy as possible for anyone to use and understand!
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Whilst still being easy to understand, we went into as much detail as we felt was necessary for you to expand upon this knowledge later!
+        Whilst still being easy to understand, we went into as much detail as we felt was necessary for you to expand upon this knowledge later and build the ideal app!
       </>
     ),
   }

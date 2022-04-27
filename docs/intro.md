@@ -2,46 +2,23 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Basic information about us and this guide!
 
-## Getting Started
+## Who are we?
 
-Get started by **creating a new site**.
+This scalability guide was formed by the community! We are open source and are open for anybody to make any changes to and update things as necessary!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Why did you make this?
 
-### What you'll need
+We made this because there was nothing quite like it! I was looking to expand a few of my projects and couldn't find one single place that I could go to find the information that I needed and that I wanted to know, so I thought... why not make my own?
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## How did you make this?
 
-## Generate a new site
+I recently worked on another guide that also uses docuasurus, after doing a little more research, I decided to opt for it for here too. It utilises markdown for the entries which are commonly known and easy to learn even if you don't know how they work!
 
-Generate a new Docusaurus site using the **classic template**.
+It's also lightweight and just * works * which is an obvious requirement haha.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+----
+Overall, this is made by the Community, for the Community!
